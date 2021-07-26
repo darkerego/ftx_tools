@@ -1,0 +1,8 @@
+certifi==2021.5.30
+charset-normalizer==2.0.3
+colored==1.4.2
+idna==3.2
+numpy==1.19.5
+requests==2.26.0
+TA-Lib==0.4.21
+urllib3==1.26.6
