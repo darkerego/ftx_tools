@@ -3,8 +3,8 @@ import requests
 
 from engine.api_ccxt import ApiFunctions as api
 api = api()
-from utils.color import NewColorPrint
-cp = NewColorPrint()
+from utils.colorprinter import ColorPrint
+cp = ColorPrint()
 import argparse
 import numpy as np
 from statsmodels.stats.weightstats import DescrStatsW
